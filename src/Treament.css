@@ -1,0 +1,57 @@
+body {
+    background-color:bisque;
+  }
+  h1 {
+    color:blue;
+    font-size:50px;
+  }
+  h2 {
+    color:black;
+    font-size:40px;
+  }
+  h3 {
+    color:black;
+    font-size:20px;
+  }
+  
+  p {
+    color:black;
+    font-size: 20px;
+  }
+  img{
+    float:right;
+    border:1px dotted black;
+    margin: 0px 0px 15px 20px;
+  }
+  .more{
+	display: none;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .column button {
+background-color:blueviolet; 
+padding: 10px;
+border-radius:none;
+float:left;
+cursor:pointer;
+}
+.column:not(:last-child){
+    margin-bottom:50px;
+
+}

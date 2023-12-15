@@ -1,0 +1,75 @@
+
+  .tableWarp{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  table th, table td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px 40px;
+    color: rgb(240, 240, 243);
+    background-color: #5072A7;
+  }
+  table th{
+    color: black;
+    background-color:#B0C4DE;
+  }
+  table{
+    margin-top: 20px;
+    border-collapse: collapse;
+    background-color: #fff;
+    border-color: black; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  
+  } 
+  input{
+    padding: 5px;
+    margin-right: 5px;
+  
+  }
+  .addForm button {
+    width: 100px;
+    padding: 8px; 
+    color: rgb(254, 254, 254);
+    background-color: #5072A7; 
+   border-radius: 5px;
+    border-color: black; 
+  }
+  
+  .addForm button:hover {
+    cursor: pointer;
+    background-color: #4682B4;
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.8) ;
+  }
+  .edit, .delete{
+   border: none;
+   padding: 7px;
+   border-radius: 5px;
+   cursor: pointer;
+  }
+  .edit{
+    color: rgb(226, 199, 199);
+    margin-right: 5px;
+    background-color:#0a2351 ;
+  }
+  .edit:hover{
+    background-color: #6699CC;
+  }
+  .delete {
+    color: #fff;
+    background-color: #e74c3c;
+  }
+  
+  .delete:hover {
+    background-color: #c0392b; 
+  }
+  .add{
+    width: 120px; 
+    padding: 5px; 
+    color: rgb(254, 254, 254);
+    background-color: #5072A7;
+    border-radius: 5px;
+    border-color: black;
+  }

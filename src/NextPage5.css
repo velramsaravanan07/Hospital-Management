@@ -1,0 +1,23 @@
+/* NextPage5.css */
+
+.nextpage5 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.accreditation-point {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.logo {
+  max-width: 100%;
+  max-height: 100px;
+  margin: 10px;
+}
