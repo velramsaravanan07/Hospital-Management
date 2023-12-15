@@ -1,0 +1,99 @@
+{
+  "patient": [
+    {
+      "id": "4",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "phone": "149494984"
+    },
+    {
+      "name": "velram",
+      "email": "velram@gmail.com",
+      "phone": "7339107187",
+      "id": "hqc27mY"
+    },
+    {
+      "name": "surya",
+      "email": "vel@gmail.com",
+      "phone": "34534532",
+      "id": "QABeMZj"
+    },
+    {
+      "name": "Saravananvelram",
+      "email": "Velramsaravanan@gmail.com",
+      "phone": "07339107187",
+      "id": "c-Dx1l5"
+    },
+    {
+      "name": "arunkumar",
+      "email": "arun@gmail.com",
+      "phone": "949849564",
+      "id": "gCOIDeX"
+    }
+  ],
+  "doctors": [
+    {
+      "id": "4",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "phone": "149494984",
+      "specialist": "Cardiologists"
+    },
+    {
+      "name": "velram",
+      "email": "velram@gmail.com",
+      "phone": "7339107187",
+      "id": "hqc27mY",
+      "specialist": "Anesthesiologists"
+    },
+    {
+      "name": "velram",
+      "email": "velram@gmail.com",
+      "phone": "7339107187",
+      "id": "6NgzXas",
+      "specialist": "Endocrinologists"
+    },
+    {
+      "name": "surya",
+      "email": "vel@gmail.com",
+      "phone": "34534532",
+      "id": "QABeMZj",
+      "specialist": "Hematologists"
+    },
+    {
+      "name": "Saravananvelram",
+      "email": "Velramsaravanan@gmail.com",
+      "phone": "07339107187",
+      "id": "c-Dx1l5",
+      "specialist": "Neurologists"
+    }
+  ],
+  "signup": [
+    {
+      "id": "4",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "phone": "149494984",
+      "password": "hashed_password1"
+    },
+    {
+      "name": "velram",
+      "email": "velram@gmail.com",
+      "phone": "7339107187",
+      "id": "hqc27mY",
+      "password": "hashed_password2"
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "password": "hashed_password1",
+      "id": "NEfxLEk"
+    },
+    {
+      "name": "fazil",
+      "email": "velramsaravanan@gmail.com",
+      "password": "fazil123",
+      "id": "dSwRFs9"
+    }
+  ]
+}

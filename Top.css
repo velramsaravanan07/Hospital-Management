@@ -1,0 +1,56 @@
+/* Top.css */
+
+.container {
+  max-width: 10000px;
+  margin: 0 auto;
+}
+
+.navbar {
+  display: flex;
+  border-bottom: 2px solid #f3f3f3;
+  justify-content: space-around;
+  padding: 20px;
+  background-color: #0093e9;
+  background-image: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%);
+  align-items: center;
+}
+
+.logo-image {
+  max-width: 50px;
+  margin-right: 10px;
+}
+
+.navbar h1 {
+  color: #f3f3f3;
+  font-size: 1.9em;
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+
+.details {
+  align-items: center;
+  text-align: center;
+}
+
+.navbar button {
+  background: none;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: 1em;
+}
+
+.navbar button:hover {
+
+  text-decoration-color: rgb(0, 0, 0);
+  border: 4px solid #0054a6;
+  background-image: linear-gradient(to left top, #187187, #157e9b, #138cb0, #1699c5, #1ea7db);
+
+}
+
+.content {
+  margin-top: 20px;
+}

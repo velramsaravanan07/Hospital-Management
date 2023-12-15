@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.container {
+  width: 100rem;
+  max-width: 800px;
+  margin: 20px auto;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+.navbar button {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.navbar button:hover {
+  text-decoration: underline;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+
+h1 {
+  text-align: center;
+  color: #333;
+  margin-top: 20px;
+}
+
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #333;
+  color: white;
+  padding: 15px;
+  width: 800px;
+}
+
+.navbar button {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.navbar button:hover {
+  text-decoration: underline;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+/* Styling for Doctor and Patient sections */
+h1 {
+  text-align: center;
+  color: #333;
+  margin-top: 20px;
+}
+
+/* Add any additional styles for Doctor and Patient components here */
